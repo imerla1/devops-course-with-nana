@@ -6,5 +6,3 @@
 | Supports universal Linux Packages (.snap) | Only for specific linux distors PType(.deb) |
 | Automatic Updates | Manual Updates |
 | Larger installation Size | Smaller Installation Size |
-| 1 | 2 |
-| 1 | 2 |
