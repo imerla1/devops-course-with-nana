@@ -42,4 +42,10 @@ By default, system assigns the next available **GID** from the range of group **
 # add User to the group
 `usermod -g <groupname> <username>`
 # add User to the multiple groups
-`usermod -G <groupname> <username>`
+`usermod -G <group1,group2> <username>`
+
+# add user into the group at creation time
+`useradd -G <groupname> <username>`
+
+# remove user from the group
+`gpasswd -d <username> <groupname>`
