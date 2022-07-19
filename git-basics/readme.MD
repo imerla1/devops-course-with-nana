@@ -69,6 +69,11 @@ creates a new commit to revert the old commit's changes
 `git revert <commithash>`
 
 removes old commit
+<<<<<<< HEAD
 `git rest <commit hash>`
 
 # Merging branches
+=======
+
+`git rest <commit hash>`
+>>>>>>> 70f1427f77cf3b3a9898fb7336d5e744a27e88cc
